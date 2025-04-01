@@ -6,7 +6,7 @@ THRESHOLD_DARK=4800
 
 PLASMA_DARK=BreezeDark
 PLASMA_LIGHT=BreezeClassic
-CURSOR_DARK=Breeze_Light
+CURSOR_DARK=Breeze_Snow
 CURSOR_LIGHT=breeze_cursors
 ICON_DARK=breeze-dark
 ICON_LIGHT=breeze
